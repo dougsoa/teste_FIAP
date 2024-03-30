@@ -1,0 +1,1 @@
+#Scrapper em python - arquivo principal 
